@@ -8,4 +8,8 @@ A lot of people in the US who suffer from chronic pain tend to use addictive dru
 For all these reasons, we found this dilemma is interesting and challenging in the same time because this opportunity will give us a chance to strengthen these studies statistically as a “Call to Action” and hopefully be a part of a movement its main goal is to save lives by decreasing opioids deaths rate even though the solution here is marijuana (a lot less risky than opioids).
  Our initial project was about drug poisoning, but we decided to take it to the next level and make it more challenging and interesting at the same time. That’s why we chose for our data analytics project “Marijuana Legalization and Opioid Deaths in the United States.” We invested a lot of time finding valuable data that contain variables needed, but it was hard to find any besides some articles published by Health affairs journal and the University of California “San Deigo” Analytics Department pertaining this subject. These articles advocated that states legalized marijuana for medical use saw a decrease in the opioid epidemic, therefore, deaths rate decreased accordingly. 
 Before drawing hypothesis’s, we had one question in mind. Does Legalization of medical marijuana reduce the number of opioid deaths? 
-
+Models:
+Fixed Estimate and Random Estimate Model
+Tools: R studio 
+Conclusion:
+From the regression results that Legalization of the medicinal use of marijuana has no effect on the opioid death epidemic. Even though there is no statistical significance as we show above, there are other studies advised otherwise.  So until there is more data that goes in more depth statistically, we still recommend to use Marijuana prescription as an alternative of addictive drug...it is less riskier than syntactic medicine (common sense).
